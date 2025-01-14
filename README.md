@@ -45,3 +45,6 @@ heroku open
 Make sure movies.pkl and similarity.pkl are in your project directory.
 Ensure your TMDb API key is valid.
 
+#Dataset Link
+https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
